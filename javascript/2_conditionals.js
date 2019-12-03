@@ -30,10 +30,11 @@ true == false? console.log(true) : console.log(false)
 
 // switch statement
 // need to use break in each case block
-const condition = 'painter';
+const condition = 'teacher';
 switch (condition) {
     case 'teacher':
-        console.log('Condition is a teacher');
+    case 'painter': // Can add multiple cases in each case block
+        console.log('Condition is a teacher or painter');
         break
     case 'painter':
         console.log('Condition is a painter');

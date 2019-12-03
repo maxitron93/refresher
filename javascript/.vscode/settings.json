@@ -1,0 +1,14 @@
+{
+    "workbench.settings.editor": "ui",
+    // "workbench.settings.editor": "json",
+    "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\bash.exe",
+    // "terminal.external.windowsExec": "C:\WINDOWS\System32\cmd.exe",
+    "workbench.startupEditor": "none",
+    "editor.wordWrap": "on",
+    "terminal.explorerKind": "external",
+    "window.zoomLevel": 0,
+    "editor.tabSize": 4,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+    }
+}
