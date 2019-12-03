@@ -1,7 +1,13 @@
 // function declaration
+function calculateHeight(height) {
+    console.log(height)
+}
+
+// function expression
 const calculateAge = function(birthYear) {
     console.log(2019 - birthYear)
 }
+
 
 // arrow function 
 const sum = (a, b) => {
@@ -17,3 +23,4 @@ const powerTwo = num => {
 // arrow function syntax 3
 // block not needed when it all fits to one line
 const multiply = (num1, num2) => console.log(num1 * num2)
+

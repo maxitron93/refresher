@@ -23,4 +23,7 @@ let object = {}
 let array = []
 let func = 'function'
 
-console.log('test' + 1)
+// Check data type
+console.log(typeof 'test')
+console.log(typeof [])
+
