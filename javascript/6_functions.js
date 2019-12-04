@@ -1,4 +1,4 @@
-// function declaration
+// function statement
 function calculateHeight(height) {
     console.log(height)
 }

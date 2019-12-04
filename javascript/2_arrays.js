@@ -14,3 +14,6 @@ console.log(nums)
 nums.unshift(-100) // add new element to the start
 console.log(nums) 
 console.log(nums.indexOf(4)) // return position of element
+nums.forEach((el, index, arr) => { // loop through array
+    console.log(el)
+})
