@@ -13,7 +13,7 @@ while (i <= 1005) {
 }
 
 
-// array forEach method
+// array forEach method (loop through array)
 let nums = [1, 2, 3, 4, 5]
 nums.forEach((el, index, arr) => {
     console.log(el)
